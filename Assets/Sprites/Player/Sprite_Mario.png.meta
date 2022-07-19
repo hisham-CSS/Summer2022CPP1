@@ -125,7 +125,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_Mario_1
+      name: MarioWalk1
       rect:
         serializedVersion: 2
         x: 20
@@ -146,7 +146,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_Mario_2
+      name: MarioWalk2
       rect:
         serializedVersion: 2
         x: 37
@@ -272,7 +272,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_Mario_8
+      name: MarioJump
       rect:
         serializedVersion: 2
         x: 144
@@ -1409,14 +1409,15 @@ TextureImporter:
       Sprite_Mario_43: 392367316
       Sprite_Mario_50: 1163380520
       Sprite_Mario_31: -348913289
-      Sprite_Mario_2: 1567324977
       Sprite_Mario_3: 545070697
       Sprite_Mario_37: 1357717098
       Sprite_Mario_44: 726646061
       Sprite_Mario_52: -1473204683
       Sprite_Mario_11: -91862478
+      MarioWalk2: 1567324977
       Sprite_Mario_32: -1994427824
       Sprite_Mario_10: -1564148843
+      MarioWalk1: -1379358665
       Sprite_Mario_45: 708227911
       MarioIdle: -1663285721
       Sprite_Mario_46: -199507547
@@ -1433,21 +1434,20 @@ TextureImporter:
       Sprite_Mario_5: 580421569
       Sprite_Mario_15: 1600004344
       Sprite_Mario_17: -1898385936
-      Sprite_Mario_8: -942553642
       Sprite_Mario_47: -866980628
+      Sprite_Mario_24: -279669305
       Sprite_Mario_9: -1546647503
       Sprite_Mario_18: 354005020
-      Sprite_Mario_1: -1379358665
       Sprite_Mario_51: 375413392
       Sprite_Mario_25: 1770866035
-      Sprite_Mario_24: -279669305
+      Sprite_Mario_39: 1812867455
       Sprite_Mario_4: -65972102
       Sprite_Mario_35: -1772421854
       Sprite_Mario_60: -62931808
       Sprite_Mario_58: 1539686467
       Sprite_Mario_56: -1380907150
-      Sprite_Mario_39: 1812867455
       Sprite_Mario_59: -2028756280
+      MarioJump: -942553642
       Sprite_Mario_41: -1476377477
       Sprite_Mario_36: 2092957171
       Sprite_Mario_22: -1784820796
